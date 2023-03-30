@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter.messagebox
 
-
 def gpa_calculator(grades):
     points = 0
     grade_c = {"A+": 4, "A": 4, "A-": 3.67, "B+": 3.33, "B": 3.0, "B-": 2.67, "C+": 2.33, "C": 2.0, "C-": 1.67,
@@ -70,3 +69,4 @@ class App:
 root = Tk()
 app = App(root)
 root.mainloop()
+
