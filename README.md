@@ -1,9 +1,6 @@
 # GPA-calculator
-# Python GPA Calculator
 
-Developed a user-friendly GPA calculator program with a GUI built on Tkinter in Python, providing students the ability to add or remove courses, and instantly calculate their cumulative GPA 
-
-The program ensures accuracy by validating input data and handling exceptions optimally, making it efficient, and reliable for students to manage their grade
+Got bored and made a GPA calculator
 
 ____________________________________________________________________________________________________________________________________________
 
